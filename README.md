@@ -2,4 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+## Task
+
+https://docs.google.com/document/d/1BWUiG4LPJtNPnb9uOPlBe3N00C57QNMxTLGuWSzDMC0/edit
